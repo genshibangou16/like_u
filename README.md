@@ -1,6 +1,8 @@
 # like_u
 A spresense-based wearable device that is used for communication in concert.
 
+**You need Spresense, some add-on board, and hardware.**
+
 Withコロナの時代における新たなコンサートライブやフェス体験を可能にするスマートライト。
 GNSS機能により密を回避するとともに、光を電子制御することで会場内全体を自在に彩ることが可能になる。
 またタッチパネルで任意のメッセージを選択することで、出演者に思いを届けるとともに会場全体でライブを作り上げる体験ができるウェアラブルデバイスである。
